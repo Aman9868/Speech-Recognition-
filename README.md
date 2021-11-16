@@ -21,3 +21,13 @@ As you all know it is a popular game character in Devil May Cry ,and from now ow
 14. Tell us about your current IP address.
 15. Can search anything on google just ask him.
 16. OS Functionalities like -(Change background,shutdown pc,empty recyclebin,volume up& down,internet spedd and many more..)
+17. Tell us a random joke if ask.
+18. Can work as an alarm for you like alarm in mobile phone
+19. Can remind about all your upcoming events.
+
+# API KEYS
++ OpenWeatherMap API
++ Wolframalpah API
++ News API
++ Google Calender API
++ Ipify API
