@@ -17,13 +17,15 @@ As you all know it is a popular game character in Devil May Cry ,and from now ow
 10. Can take a screenshot whenever the user said .
 11. Answer any Question with the help of- Wolframaplha
 12. Tell us about your Current Location.
-13. Send Email with(subject,body,content) with the helpo of -SMTP.
+13. Send Email with(subject,body,content) with the help of -SMTP.
 14. Tell us about your current IP address.
 15. Can search anything on google just ask him.
 16. OS Functionalities like -(Change background,shutdown pc,empty recyclebin,volume up& down,internet spedd and many more..)
 17. Tell us a random joke if ask.
 18. Can work as an alarm for you like alarm in mobile phone
 19. Can remind about all your upcoming events.
+20. Send whatsapp messages instantly.
+21. Send text messages or calling with the help of -Twilio
 
 # API KEYS
 + OpenWeatherMap API
@@ -31,3 +33,4 @@ As you all know it is a popular game character in Devil May Cry ,and from now ow
 + News API
 + Google Calender API
 + Ipify API
++ Twilio API
